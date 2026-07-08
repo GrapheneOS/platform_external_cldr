@@ -385,7 +385,7 @@ For terms of use, see http://www.unicode.org/copyright.html
 				<usesMetazone mzone="Atlantic"/>
 			</timezone>
 			<timezone type="America/Edmonton">
-				<usesMetazone mzone="America_Mountain"/>
+				<usesMetazone mzone="America_Mountain" stdOffset="-07" dstOffset="-06"/>
 			</timezone>
 			<timezone type="America/Eirunepe">
 				<usesMetazone to="2008-06-24 05:00" mzone="Acre"/>
